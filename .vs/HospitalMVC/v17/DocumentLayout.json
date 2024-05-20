@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\doctors\\insertnewpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\doctors\\insertnewpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\patients\\detailspatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\patients\\detailspatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\models\\doctorpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|c:\\users\\razorvision\\nextcloud\\uni\\4 semestar\\it\\zadaci\\labs\\test\\hospitalmvc\\hospitalmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF3E07D-4D74-411B-96C2-CB4DCD2DCD64}|HospitalMVC\\HospitalMVC.csproj|solutionrelative:hospitalmvc\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Hospitals\\Index.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Hospitals\\Index.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Hospitals\\Index.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Hospitals\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA8AAAA",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "HospitalMVC\\Views\\Patients\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T14:09:24.857Z",
+              "WhenOpened": "2024-05-20T06:33:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "HospitalMVC\\Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T06:33:05.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Create.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Doctors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Create.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Doctors\\Create.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAswDIAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T14:07:54.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\Details.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Patients\\Details.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\Details.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Patients\\Details.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T14:03:38.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetailsPatient.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\DetailsPatient.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Patients\\DetailsPatient.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Patients\\DetailsPatient.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Patients\\DetailsPatient.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T14:03:32.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "HospitalMVC\\Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "HospitalMVC\\Controllers\\PatientsController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T14:03:02.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InsertNewPatient.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\InsertNewPatient.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Doctors\\InsertNewPatient.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\InsertNewPatient.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Doctors\\InsertNewPatient.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:27:43.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DoctorPatient.cs",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\DoctorPatient.cs",
-              "RelativeDocumentMoniker": "HospitalMVC\\Models\\DoctorPatient.cs",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\DoctorPatient.cs",
-              "RelativeToolTip": "HospitalMVC\\Models\\DoctorPatient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:21:52.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "HospitalMVC\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "HospitalMVC\\Controllers\\DoctorsController.cs",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJYAAAAAAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:13:15.595Z",
+              "WhenOpened": "2024-05-20T06:31:20.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Details.cshtml",
-              "RelativeDocumentMoniker": "HospitalMVC\\Views\\Doctors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Views\\Doctors\\Details.cshtml",
-              "RelativeToolTip": "HospitalMVC\\Views\\Doctors\\Details.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T13:12:40.209Z",
+              "DocumentIndex": 3,
+              "Title": "DoctorPatient.cs",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\DoctorPatient.cs",
+              "RelativeDocumentMoniker": "HospitalMVC\\Models\\DoctorPatient.cs",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\DoctorPatient.cs",
+              "RelativeToolTip": "HospitalMVC\\Models\\DoctorPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:31:10.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalMVC\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalMVC\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:30:16.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "HospitalMVC\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Hospital.cs",
+              "RelativeToolTip": "HospitalMVC\\Models\\Hospital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:30:15.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalMVC\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\RazorVision\\Nextcloud\\uni\\4 semestar\\IT\\zadaci\\labs\\test\\HospitalMVC\\HospitalMVC\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalMVC\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:30:14.611Z",
               "EditorCaption": ""
             }
           ]
